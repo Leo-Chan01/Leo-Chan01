@@ -1,9 +1,7 @@
 # Hi there 👋 my name is Ephraim
 
-- 🔭 I’m currently working on a Book app project (Android Native) which will be fully wired from frontend to backend
-- 🌱 I’m currently learning API development with Spring Boot(Java)
-- 👯 I’m looking to collaborate on any project if the opportunity comes and has to do with education
-- 🤔 I’m looking for help with mentorship opportunities and environments to learn and improve my craft
+- 🔭 I’m currently working on a Book app project (Android Native) which will be fully wired from frontend to backend.
+- 🌱 I’m currently learning API development with Spring Boot(Java).
 - **💬 Ask me about:** Android Development and Flutter Development.
 - **📫 I post and Repost insightful content on these platforms occassionally** 
 
@@ -17,8 +15,13 @@
   ```
 ~ thefactsite.com
 
-## My Impact
-I was the community lead 2021/22 session for [Google Developer Student Clubs](https://github.com/gdscaefunai) where I introduced and mentored 20+ individuals in finding their pathways in tech
+## My Impact in the Tech
+- I was the community lead 2021/22 session for [Google Developer Student Clubs](https://github.com/gdscaefunai) where I actively introduced and mentored 20+ individuals in finding their pathways in tech.
+- I have a little community of my own, with member count of about ```21``` where  I share any information that can enable the members grow in tech.
+- I currently instruct ```4``` people on Mobile Development, ```2``` have completed the course successfully, and the remaining ```2``` are on their way to completion, one in Flutter and the other in Android.
+
+## My Portfolio Site
+To see more details on my portfolio, click [here](https://ephraimumunnakwe.me). (Under maintenance)
 
 ## My Tools
 ### I am proficient in these languages
@@ -41,3 +44,5 @@ I was the community lead 2021/22 session for [Google Developer Student Clubs](ht
 
 ## Available for work
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white) ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white) ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white) 
+
+<!--[![My activity graph](https://activity-graph.herokuapp.com/graph?username=Leo-Chan01)](https://github.com/Leo-Chan01/github-readme-activity-graph)-->
