@@ -3,25 +3,22 @@
 - 🔭 I’m currently working on a Book app project (Android Native) which will be fully wired from frontend to backend.
 - 🌱 I’m currently learning API development with Spring Boot(Java).
 - **💬 Ask me about:** Android Development and Flutter Development.
+
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Leo-Chan01&label=Profile%20views&color=0e75b6&style=flat" alt="Leo-Chan01" /> </p>
+
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Leo-Chan01" alt="Leo-Chan01" /></a> </p>
+
+  <p align="left"> <a href="https://twitter.com/u_ephraim" target="blank"><img src="https://img.shields.io/twitter/follow/u_ephraim?logo=twitter&style=for-the-badge" alt="u_ephraim" /></a> </p>
+    
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Leo-Chan01&" alt="Leo-Chan01" /></p>
+
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leo-Chan01&show_icons=true&locale=en&layout=compact" alt="Leo-Chan01" /></p>
+
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Leo-Chan01&show_icons=true&locale=en" alt="Leo-Chan01" /></p>
+
 - **📫 I post and Repost insightful content on these platforms occassionally** 
 
   [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/leochan01)    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ephraimumunnakwe100) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/u_ephraim)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/your.favourite.developer)
-  
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leo-Chan01&show_icons=true&locale=en&layout=compact" alt="Leo-Chan01" /></p>
-  
-
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Leo-Chan01&show_icons=true&locale=en" alt="Leo-Chan01" /></p>
-
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Leo-Chan01&" alt="Leo-Chan01" /></p>
-
-- **⚡ Fun fact:** 
-  ```
-  Instead of mowing their lawn
-  Google rents goats to eat the grass at their Mountain View headquarters.
-  A herder will bring 200 goats which are herded by a border collie named Jen
-  ```
-~ thefactsite.com
 
 ## My Impact in the Tech
 - I was the community lead 2021/22 session for [Google Developer Student Clubs](https://github.com/gdscaefunai) where I actively introduced and mentored 20+ individuals in finding their pathways in tech.
