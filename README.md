@@ -15,6 +15,10 @@
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Leo-Chan01&show_icons=true&locale=en&layout=compact" alt="Leo-Chan01" /></p>
 
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Leo-Chan01&show_icons=true&locale=en" alt="Leo-Chan01" /></p>
+    
+    ![status](https://badge.stateful.com/Leo-Chan01/status.svg)
+   
+    ![status](https://badge.stateful.com/Leo-Chan01/dnd.svg)
 
 - **📫 I post and Repost insightful content on these platforms occassionally** 
 
