@@ -4,11 +4,15 @@
 - 🌱 I’m currently learning API development with Spring Boot(Java).
 - **💬 Ask me about:** Android Development and Flutter Development.
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Leo-Chan01&label=Profile%20views&color=0e75b6&style=flat" alt="Leo-Chan01" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Leo-Chan01&label=Profile%20views&color=0e75b6&style=flat" alt="Leo-Chan01" /> </p> 
+  
+  [![wakatime](https://wakatime.com/badge/user/0ff88b28-7a04-4e0a-afa9-7851e4ae7b3f.svg)](https://wakatime.com/@0ff88b28-7a04-4e0a-afa9-7851e4ae7b3f)
+
 
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Leo-Chan01" alt="Leo-Chan01" /></a> </p>
   
   ![status](https://badge.stateful.com/Leo-Chan01/status.svg)   ![status](https://badge.stateful.com/Leo-Chan01/dnd.svg)
+
   
   <p align="left"> <a href="https://twitter.com/u_ephraim" target="blank"><img src="https://img.shields.io/twitter/follow/u_ephraim?logo=twitter&style=for-the-badge" alt="u_ephraim" /></a> </p>
     
