@@ -1,8 +1,8 @@
 # Hi there 👋 my name is Ephraim
 
-- 🔭 I’m currently working on a Book app project (Android Native) which will be fully wired from frontend to backend.
-- 🌱 I’m currently learning API development with Spring Boot(Java).
-- **💬 Ask me about:** Android Development and Flutter Development.
+- 🔭 I’m currently working on a New Marketing Startup
+- 🌱 I’m currently learning IOT and Embedded Systems
+- **💬 Ask me about:** Mobile Development and Backend.
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Leo-Chan01&label=Profile%20views&color=0e75b6&style=flat" alt="Leo-Chan01" /> </p> 
   
@@ -14,7 +14,7 @@
   ![status](https://badge.stateful.com/Leo-Chan01/status.svg)   ![status](https://badge.stateful.com/Leo-Chan01/dnd.svg)
 
   
-  <p align="left"> <a href="https://twitter.com/u_ephraim" target="blank"><img src="https://img.shields.io/twitter/follow/u_ephraim?logo=twitter&style=for-the-badge" alt="u_ephraim" /></a> </p>
+  <p align="left"> <a href="https://twitter.com/yfdtweets" target="blank"><img src="https://img.shields.io/twitter/follow/u_ephraim?logo=twitter&style=for-the-badge" alt="yfdtweets" /></a> </p>
     
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Leo-Chan01&" alt="Leo-Chan01" /></p>
 
@@ -28,15 +28,15 @@
 
 - **📫 I post and Repost insightful content on these platforms occassionally** 
 
-  [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/leochan01)    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ephraimumunnakwe100) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/u_ephraim)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/your.favourite.developer)
+  [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/leochan01)    [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ephraimumunnakwe100) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/yfdtweets)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/your.favourite.developer)
 
 ## My Impact in the Tech
 - I was the community lead 2021/22 session for [Google Developer Student Clubs](https://github.com/gdscaefunai) where I actively introduced and mentored 20+ individuals in finding their pathways in tech.
-- I have a little community of my own, with member count of about ```21``` where  I share any information that can enable the members grow in tech.
-- I currently instruct ```4``` people on Mobile Development, ```2``` have completed the course successfully, and the remaining ```2``` are on their way to completion, one in Flutter and the other in Android.
+- I have a little community of my own, with member count of about ```93``` where  I share any information that can enable the members grow in tech.
+- I have mentored ```5``` people on Mobile Development and Backend Development, Including ```90+``` other people who I've impacted and guided their career paths.
 
 ## My Portfolio Site
-To see more details on my portfolio, click [here](https://ephraimumunnakwe.me). (Under maintenance)
+Want to see my portfolio? click [here](https://thephenomenalephraim.web.app).
 
 ## My Tools
 ### I am proficient in these languages
