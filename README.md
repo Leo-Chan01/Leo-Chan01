@@ -14,7 +14,7 @@
   ![status](https://badge.stateful.com/Leo-Chan01/status.svg)   ![status](https://badge.stateful.com/Leo-Chan01/dnd.svg)
 
   
-  <p align="left"> <a href="https://twitter.com/yfdtweets" target="blank"><img src="https://img.shields.io/twitter/follow/u_ephraim?logo=twitter&style=for-the-badge" alt="yfdtweets" /></a> </p>
+  <p align="left"> <a href="https://twitter.com/yfdtweets" target="blank"><img src="https://img.shields.io/twitter/follow/yfdtweets?logo=twitter&style=for-the-badge" alt="yfdtweets" /></a> </p>
     
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Leo-Chan01&" alt="Leo-Chan01" /></p>
 
